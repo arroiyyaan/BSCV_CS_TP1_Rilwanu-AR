@@ -1,2 +1,2 @@
-# BSCV_CS_TP1_Rilwanu-AR
-Project TP1 of Computer Science BSCV taught by Mr. Cedric Lemaitre
+# BSCV_Computer-Science_Rilwanu-AR
+This main branch is meant as primary repo for my work for Computer Science course taught by Mr. Cedric Lemaitre
